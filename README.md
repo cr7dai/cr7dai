@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @cr7dai
-- 👀 I’m interested in .football,sauna,food
-- 🌱 I’m currently learning sql
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in football,sauna,food,shisha
+- 🌱 I’m currently learning sql,lookml
+- 💞️ I’m looking to collaborate on Retty
+- 📫 How to reach me https://linktr.ee/cr7dai
 
 <!---
 cr7dai/cr7dai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
